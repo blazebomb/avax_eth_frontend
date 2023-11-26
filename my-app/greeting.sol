@@ -21,4 +21,3 @@ contract RemixContract {
         return ("GM From Ashish");
     }
 }
-
